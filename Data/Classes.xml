@@ -1,0 +1,150 @@
+﻿<Classes>
+
+  <Class Name="Barbarian">
+    <Subclass Name="AncestralGuardian" />
+    <Subclass Name="Battlerager" />
+    <Subclass Name="Beast" />
+    <Subclass Name="Berserker" />
+    <Subclass Name="StormHerald" />
+    <Subclass Name="TotemWarrior" />
+    <Subclass Name="Zealot" />
+    <Subclass Name="WildMagic" />
+  </Class>
+  
+  <Class Name="Bard">
+    <Subclass Name="Creation" />
+    <Subclass Name="Eloquence" />
+    <Subclass Name="Glamour" />
+    <Subclass Name="Lore" />
+    <Subclass Name="Swords" />
+    <Subclass Name="Valor" />
+    <Subclass Name="Whispers" />
+  </Class>
+  
+  <Class Name="Cleric">
+    <Subclass Name="Arcana" />
+    <Subclass Name="Death" />
+    <Subclass Name="Forge" />
+    <Subclass Name="Grave" />
+    <Subclass Name="Knowledge" />
+    <Subclass Name="Life" />
+    <Subclass Name="Light" />
+    <Subclass Name="Nature" />
+    <Subclass Name="Order" />
+    <Subclass Name="Peace" />
+    <Subclass Name="Tempest" />
+    <Subclass Name="Trickery" />
+    <Subclass Name="Twilight" />
+    <Subclass Name="War" />
+  </Class>
+  
+  <Class Name="Druid">
+    <Subclass Name="Dreams" />
+    <Subclass Name="Spores" />
+    <Subclass Name="Stars" />
+    <Subclass Name="Land" />
+    <Subclass Name="Moon" />
+    <Subclass Name="Shepherd" />
+    <Subclass Name="Wildfire" />
+  </Class>
+  
+  <Class Name="Fighter">
+    <Subclass Name="ArcaneArcher" />
+    <Subclass Name="BattleMaster" />
+    <Subclass Name="Cavalier" />
+    <Subclass Name="Champion" />
+    <Subclass Name="EchoKnight" />
+    <Subclass Name="EldritchKnight" />
+    <Subclass Name="Gunslinger" />
+    <Subclass Name="PsiWarrior" />
+    <Subclass Name="PurpleDragonKnight" />
+    <Subclass Name="RuneKnight" />
+    <Subclass Name="Samurai" />
+  </Class>
+  
+  <Class Name="Monk">
+    <Subclass Name="Mercy" />
+    <Subclass Name="Shadow" />
+    <Subclass Name="AstralSelf" />
+    <Subclass Name="CobaltSoul" />
+    <Subclass Name="DrunkenMaster" />
+    <Subclass Name="FourElements" />
+    <Subclass Name="Kensei" />
+    <Subclass Name="LongDeath" />
+    <Subclass Name="OpenHand" />
+    <Subclass Name="SunSoul" />
+  </Class>
+  
+  <Class Name="Paladin">
+    <Subclass Name="Conquest" />
+    <Subclass Name="Devotion" />
+    <Subclass Name="Glory" />
+    <Subclass Name="Redemption" />
+    <Subclass Name="Ancients" />
+    <Subclass Name="Crown" />
+    <Subclass Name="OpenSea" />
+    <Subclass Name="Watchers" />
+    <Subclass Name="Vengeance" />
+    <Subclass Name="Oathbreaker" />
+  </Class>
+  
+  <Class Name="Ranger">
+    <Subclass Name="BeastMaster" />
+    <Subclass Name="FeyWanderer" />
+    <Subclass Name="GloomStalker" />
+    <Subclass Name="HorizonWalker" />
+    <Subclass Name="Hunter" />
+    <Subclass Name="MonsterSlayer" />
+    <Subclass Name="Swarmkeeper" />
+  </Class>
+  
+  <Class Name="Rogue">
+    <Subclass Name="ArcaneTrickester" />
+    <Subclass Name="Assassin" />
+    <Subclass Name="Inquisitive" />
+    <Subclass Name="Mastermind" />
+    <Subclass Name="Phantom" />
+    <Subclass Name="Scout" />
+    <Subclass Name="Soulknife" />
+    <Subclass Name="Swashbuckler" />
+    <Subclass Name="Thief" />
+  </Class>
+  
+  <Class Name="Sorcerer">
+    <Subclass Name="AberrantMind" />
+    <Subclass Name="ClockworkSoul" />
+    <Subclass Name="DivineSoul" />
+    <Subclass Name="DraconicBloodline" />
+    <Subclass Name="ShadowMagic" />
+    <Subclass Name="StormSorcery" />
+    <Subclass Name="WildMagic" />
+  </Class>
+  
+  <Class Name="Warlock">
+    <Subclass Name="Archfey" />
+    <Subclass Name="Celestial" />
+    <Subclass Name="Fathomless" />
+    <Subclass Name="Fiend" />
+    <Subclass Name="Genie" />
+    <Subclass Name="GreatOldOne" />
+    <Subclass Name="Hexblade" />
+    <Subclass Name="Undying" />
+  </Class>
+  
+  <Class Name="Wizard">
+    <Subclass Name="Bladesinging" />
+    <Subclass Name="ChronurgyMagic" />
+    <Subclass Name="GraviturgyMagic" />
+    <Subclass Name="OrderOfScribes" />
+    <Subclass Name="SchoolOfAbjuration" />
+    <Subclass Name="SchoolOfConjuration" />
+    <Subclass Name="SchoolOfDivination" />
+    <Subclass Name="SchoolOfEnchantment" />
+    <Subclass Name="SchoolOfEvocation" />
+    <Subclass Name="SchoolOfIllusion" />
+    <Subclass Name="SchoolOfNecromancy" />
+    <Subclass Name="SchoolOfTransmutation" />
+    <Subclass Name="WarMagic" />
+  </Class>
+ 
+</Classes>

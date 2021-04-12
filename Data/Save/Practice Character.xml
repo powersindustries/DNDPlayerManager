@@ -1,0 +1,6 @@
+<Character Name="Practice Character" CampaignName="Test Campaign" Level="1" Race="Human" Class="Fighter" Subclass="BattleMaster" MaxHP="100">
+  <NPCs>
+    <NPC Name="NPC" Notes="Notes about this NPC" />
+  </NPCs>
+  <GeneralNotes Notes="These are some general notes about the campaign." />
+</Character>

@@ -1,0 +1,30 @@
+﻿<Races>
+
+  <Race Name="Dragonborn"/>
+  <Race Name="Dwarf"/>
+  <Race Name="Elf"/>
+  <Race Name="Gnome"/>
+  <Race Name="Half-Elf"/>
+  <Race Name="Halfling"/>
+  <Race Name="Half-Orc"/>
+  <Race Name="Human"/>
+  <Race Name="Tiefling"/>
+  <Race Name="Leonin"/>
+  <Race Name="Satyr"/>
+  <Race Name="Aarakocra"/>
+  <Race Name="Genasi"/>
+  <Race Name="Goliath"/>
+  <Race Name="Aasimar"/>
+  <Race Name="Bugbear"/>
+  <Race Name="Firbolg"/>
+  <Race Name="Goblin"/>
+  <Race Name="Hobgoblin"/>
+  <Race Name="Kenku"/>
+  <Race Name="Kobold"/>
+  <Race Name="Lizardfolk"/>
+  <Race Name="Orc"/>
+  <Race Name="Tabaxi"/>
+  <Race Name="Triton"/>
+  <Race Name="Yuan-ti Pureblood"/>
+  
+</Races>
